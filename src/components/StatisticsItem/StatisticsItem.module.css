@@ -1,0 +1,21 @@
+.item {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    gap: 5px;
+    padding: 14px;
+}
+
+.label {
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.percentage {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
